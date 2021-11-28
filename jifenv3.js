@@ -32,7 +32,7 @@ getid();
 }catch(e){
     log(e);
     }
-getid();
+//getid();
 sessionid=tid;
 rlogin();
 console.log(sessionid);
